@@ -32,7 +32,7 @@ const array = [
         author: "Oscar Wilde"
     },
     {
-        text: "e greatest glory in living lies not in never falling, but in rising every time we fall.",
+        text: "Thee greatest glory in living lies not in never falling, but in rising every time we fall.",
         author: "Nelson Mandela"
     },
     {
